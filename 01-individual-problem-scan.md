@@ -38,7 +38,7 @@
 
 **Impact:** Mất gốc kiến thức, không đạt mục tiêu học tập, phụ thuộc hoàn toàn vào AI.
 
-**Success metric:** Giảm thời gian gỡ 1 lỗi từ 20 phút xuống 5 phút; Tỷ lệ code tự hiểu và giải thích được \> 70%.
+**Success metric:** Giảm thời gian gỡ 1 lỗi từ 35 phút xuống 20 phút; Tỷ lệ code tự hiểu và giải thích được \> 70%.
 
 **Non-AI alternative:** Phát file giải thích code tĩnh (nhưng cứng nhắc, không gỡ được lỗi custom).
 
