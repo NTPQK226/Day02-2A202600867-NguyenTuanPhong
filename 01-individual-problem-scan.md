@@ -166,3 +166,13 @@ FUTURE STATE — 4 phút
 → \[4 Học viên Làm những yêu cầu theo discord và mail: 5'\]  \<-- human boundary
 
 Fallback: Automation quét hụt → hỏi bạn
+Card tôi muốn pitch nhất: Problem Card #1 — Giải thích logic & Debug (Vibe Code chuẩn)
+Vì sao:
+Chạm đúng lõi vấn đề: Khóa học ép tiến độ quá nhanh, việc học viên nộp bài kịp deadline chỉ là "chỉ số ảo" (Vanity metric). Bệnh thực sự là rỗng kiến thức, mất gốc dây chuyền ở các ngày sau. Giải bài toán này là cứu sống chất lượng thực sự của khóa học.
+Tính khả thi cao (Scope vừa vặn): Không cần xây dựng Agent tự trị hay kết nối Database phức tạp. Cốt lõi của giải pháp nằm ở Workflow kết hợp với System Prompt chặt chẽ (đóng vai Socratic Tutor), cực kỳ phù hợp để thực thi và demo ngay trong thời lượng Lab.
+Đo lường được ngay lập tức (Clear Metrics): Baseline đã có sẵn (30 phút bế tắc). Có thể hỏi các học viên
+Câu hỏi tôi muốn nhóm challenge:
+Rủi ro lách luật: Bản tính của người dùng khi bị ép deadline là tìm đường tắt. Nếu học viên cố tình dùng kỹ thuật "Jailbreak prompt" để ép AI Tutor phải nhả thẳng code ra cho copy thì hệ thống chặn bằng cách nào?
+Rủi ro ảo giác: 
+Nếu AI Tutor giải thích sai logic của bài lab, làm sao để một học viên non-tech (chưa có nền tảng) nhận biết được là AI đang nói linh tinh, hay họ sẽ học sai bản chất luôn?
+Cách đo lường thực tế: Chỉ số "Tỷ lệ code tự hiểu > 70%" nghe rất hay trên lý thuyết, nhưng áp dụng vào thực tế với 500 học viên thì chúng ta thu thập số liệu này bằng cách nào để không làm tăng thêm việc cho Trợ giảng?
